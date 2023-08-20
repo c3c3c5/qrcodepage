@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Dancing+Script&family=Great+Vibes&family=Lato&family=Pacifico&family=Ubuntu:wght@700&display=swap');
+
+body {
+    background-color: hsl(212,45%,89%);
+    text-align: center;
+}
+
+#container {
+    display: inline-block;
+    padding: 15px;
+    border-radius: 15px;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    background-color: white;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+img {
+    border-radius: 12px;
+    max-width: 100%;
+}
+
+#text {
+    font-family: "Ubuntu";
+    color: hsl(229,6%,63%);
+    font-size: 0.8em;
+}
+
+#title {
+    color: hsl(223,39%,25%);
+    font-family: "Ubuntu";
+    font-weight: 900;
+    font-size: 1.2em;
+}
